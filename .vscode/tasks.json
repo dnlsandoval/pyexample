@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "hello.py"
+				"file": "max_sqr.py"
 			}
 		}
 	]
