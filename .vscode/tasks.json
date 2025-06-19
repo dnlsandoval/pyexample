@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "max_sqr.py"
+				"file": "zigzag_iterator.py"
 			}
 		}
 	]
